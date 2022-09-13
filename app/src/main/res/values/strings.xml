@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Change Activity</string>
+
+    <!-- Configuration -->
+    <string name="txv1">Cambio de pantalla</string>
+    <string name="btn">Siguiente</string>
+
+    <string name="txv2">Segunda pantalla</string>
+    <string name="btn2">Regresar</string>
+</resources>
