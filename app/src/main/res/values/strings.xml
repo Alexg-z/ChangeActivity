@@ -2,9 +2,18 @@
     <string name="app_name">Change Activity</string>
 
     <!-- Configuration -->
-    <string name="txv1">Cambio de pantalla</string>
+    <string name="txv1">Envio de datos</string>
     <string name="btn">Siguiente</string>
+    <string name="txtinfo">Ingrese los datos</string>
 
     <string name="txv2">Segunda pantalla</string>
-    <string name="btn2">Regresar</string>
+    <string name="btn2">Calcular</string>
+    <string name="txv3">Envio de datos</string>
+    <string name="txtnum1">Ingresar número uno</string>
+    <string name="txtnum2">Ingresar número dos</string>
+    <string name="rbt1">Suma</string>
+    <string name="rbt2">Resta</string>
+
+    <string name="txv4">Resultado</string>
+    <string name="btn3">Regresar</string>
 </resources>
